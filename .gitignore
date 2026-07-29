@@ -1,0 +1,4 @@
+cs50env/
+__pycache__/
+*.pyc
+.idea/
