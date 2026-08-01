@@ -1,4 +1,7 @@
-cs50env/
+﻿cs50env/
 __pycache__/
 *.pyc
 .idea/
+Lecture_5_Neural_Networks/traffic/gtsrb/
+Lecture_5_Neural_Networks/traffic/*.h5
+Lecture_5_Neural_Networks/traffic/*.keras
