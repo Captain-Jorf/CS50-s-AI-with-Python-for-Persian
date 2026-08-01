@@ -1,7 +1,10 @@
-﻿cs50env/
+﻿@"
+cs50env/
 __pycache__/
 *.pyc
 .idea/
 Lecture_5_Neural_Networks/traffic/gtsrb/
 Lecture_5_Neural_Networks/traffic/*.h5
 Lecture_5_Neural_Networks/traffic/*.keras
+Lecture_6_Language/attention/Attention_Layer*.png
+"@ | Set-Content -Encoding UTF8 "E:\PythonProject\CS50-s-AI-with-Python-for-Persian\.gitignore"
